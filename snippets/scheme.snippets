@@ -9,4 +9,10 @@ snippet (defs
 	(define-syntax ${1}
 	  (syntax-rules (${2})
 	    (${3}))
+snippet (let
+	(let ((${1})${2})
+  	${3}
+snippet (cond
+	(cond ((${1}) ${2}
+	  (else (${3}))
 
