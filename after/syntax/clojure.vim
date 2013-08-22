@@ -1,0 +1,3 @@
+:RainbowParenthesesActivate
+:RainbowParenthesesLoadRound
+:RainbowParenthesesLoadSquare
