@@ -1,3 +1,7 @@
 jquery_docs
 bundle
 dev
+
+# eclim
+eclim/*
+!eclim/.gitkeep
